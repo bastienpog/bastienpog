@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there 👋, I'm Bastien Pognon<br><br>🎓 I’m a **Web Development student** currently pursuing a **Bachelor’s degree**.  <br>🌱 Passionate about **front-end & back-end development**, always learning new technologies.  <br>💼 I’m currently **looking for an internship or alternance** in web development to apply my skills and grow professionally.  
+# Hi there 👋, I'm Bastien Pognon
+🎓 I’m a **Web Development student** currently pursuing a **Bachelor’s degree**.  <br>🌱 Passionate about **front-end & back-end development**, always learning new technologies.  <br>💼 I’m currently **looking for an internship or alternance** in web development to apply my skills and grow professionally.  
 
 
 ## 🌐 Socials:
